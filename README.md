@@ -6,6 +6,7 @@ ___
 ## GitHub Project Description: "Integrated Data Analysis System for University Decision-Making"
 
 >**Overview:**
+>
 >The project involved creating a seamless connection between Excel and the Azure SQL Database using Power Query.
 >The integration enabled the retrieval of real-time data from the database into Excel, allowing departments to access and analyze information effortlessly.
 >By leveraging Power Query's data transformation capabilities, the project ensured that the collected data could be refined and customized to meet specific departmental requirements.
